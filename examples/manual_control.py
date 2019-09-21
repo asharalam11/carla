@@ -9,6 +9,15 @@
 # Allows controlling a vehicle with a keyboard. For a simpler and more
 # documented example, please take a look at tutorial.py.
 
+"""Agenda for today (09/21/2019)
+
+1. Add Bird's eye view for camera
+2. Add option for marker visualtization via argument parse_args
+"""
+
+
+
+
 """
 Welcome to CARLA manual control.
 
